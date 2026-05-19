@@ -1,5 +1,7 @@
-streamlit
-transformers
-torch
-accelerate
-sentencepiece
+streamlit>=1.32.0
+transformers>=4.40.0
+torch>=2.2.0
+accelerate>=0.28.0
+sentencepiece>=0.2.0
+safetensors>=0.4.2
+huggingface-hub>=0.22.0
